@@ -57,7 +57,7 @@ A Diretoria Comercial da Walmart deseja responder duas perguntas principais:
 1. **Quais categorias de departamento foram mais eficientes para gerar vendas em 2012?**
     - **KPI 1: Vendas por metro quadrado (eficiência):** `Vendas / Tamanho`.
 2. **Quais departamentos contribuíram mais para o negócio e quais ficaram abaixo do potencial?**
-    - **KPI 2: Participación del departamento:** `VendasDepartamento / VendasTotais`.
+    - **KPI 2: Participação do departamento:** `VendasDepartamento / VendasTotais`.
 
 ---
 
@@ -286,7 +286,7 @@ Português
 
 O resultado final deve ser semelhante ao exemplo abaixo:
 
-!image.png
+![gráfico](image.png)
 
 ---
 
