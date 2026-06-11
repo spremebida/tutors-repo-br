@@ -417,7 +417,7 @@ Este projeto integra as habilidades essenciais de um analista de dados: limpeza 
 ---
 ## Rubrica
 
-| Parte | Critério | ✅ Concluído | 🟡 Recomendação | ❌ Não concluído |
+| **Parte do projeto** | **Pergunta** | **✅ Excelente 9-10** | **🟡 Recomendação 7-8** | **❌ Falha 5-7** |
 | --- | --- | --- | --- | --- |
 | **Parte 1: Configuração do projeto** | Renomeou e criou todas as abas obrigatórias? (`raw_vendas`, `raw_lojas`, `raw_departamento`, `clean_vendas`, `Pivot`, `Dashboard`, `Resumo`, `README`) | Todas as abas estão presentes e corretamente nomeadas. | Faltam 1–2 abas ou existem pequenos erros nos nomes. | Várias abas estão ausentes ou incorretamente nomeadas. |
 | **Parte 2: Limpeza sistemática** | Normalizou as colunas em `clean_vendas`? (`loja`, `departamento`, `data`, `vendas_semanais`, `eh_feriado`, `semana_limpa`) | Todas as colunas limpas e com formato correto. | Algumas colunas corretas, mas faltam pequenas padronizações. | As colunas continuam desorganizadas ou com formatos inconsistentes. |
