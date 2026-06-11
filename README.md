@@ -9,10 +9,13 @@ Módulo 1:
 - Sprint 4: Transforme dados em insights de negócio
   - As bases para serem utilizadas ainda estão em espanhol, vamos traduzir para português.
 
-### MBA AI|ML
-
 
 ### MBA DS|AI
 
 ### MBA APPLIED AI
+Módulo 1:
+- Sprint 1: Ferramentas de IA e Engenharia de Prompts
+- Sprint 2: Fundamentos de LLMs e Construção de Aplicações com IA
+- Sprint 3: IA para Análise e Tomada de Decisão
+- Sprint 4: Identificação e Priorização de Casos de Uso com IA
 
